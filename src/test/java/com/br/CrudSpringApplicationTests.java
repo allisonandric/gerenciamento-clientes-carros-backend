@@ -1,10 +1,10 @@
-package br.com.gerenciamento.clientes.carros.backend;
+package com.br;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class CrudSpringApplicationTests {
 
 	@Test
 	void contextLoads() {
